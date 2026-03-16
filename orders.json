@@ -1,1 +1,20 @@
-
+[
+  {
+    "items": [
+      {
+        "id": 1,
+        "name": "Italian Pasta",
+        "price": 9.55
+      },
+      {
+        "id": 5,
+        "name": "Lemon Dessert",
+        "price": 4.5
+      }
+    ],
+    "subtotal": "14.05",
+    "tax": "2.53",
+    "total": "16.58",
+    "date": "3/16/2026, 7:30:45 PM"
+  }
+]
