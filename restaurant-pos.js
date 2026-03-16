@@ -1,5 +1,5 @@
 // ==========================================
-// Restaurant POS System (Portfolio Project)
+// Restaurant POS System 
 // ==========================================
 
 const inquirer = require("inquirer");
