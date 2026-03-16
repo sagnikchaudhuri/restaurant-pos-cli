@@ -1,5 +1,5 @@
 // ==========================================
-// Little Lemon POS System (Portfolio Project)
+// Restaurant POS System (Portfolio Project)
 // ==========================================
 
 const inquirer = require("inquirer");
