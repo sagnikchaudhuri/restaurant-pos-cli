@@ -1,1 +1,22 @@
-
+{
+  "name": "restaurant-pos-cli",
+  "version": "1.0.0",
+  "description": "A command-line restaurant POS system built with Node.js",
+  "main": "restaurant-pos.js",
+  "scripts": {
+    "start": "node restaurant-pos.js"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "pos-system",
+    "restaurant",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.4"
+  }
+}
